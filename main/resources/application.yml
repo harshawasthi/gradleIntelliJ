@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin@learningmongo.mpv4a.mongodb.net/?retryWrites=true&w=majority&appName=LearningMongo
+      database : Employee
+server:
+  port: 8080
